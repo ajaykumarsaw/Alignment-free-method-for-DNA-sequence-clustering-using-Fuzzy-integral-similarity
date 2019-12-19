@@ -7,7 +7,8 @@ Sequence Similarity tools
 
 # check the maximum length among the  DNA sequences and add 10 more array in maximum length in program.
 
-$ wc -L 11linedata.fas 
+$ wc -L 11linedata.fas
+
 336 11linedata.fas
 # here maximum length of among 11linedata.fas DNA sequences is 336. Therefore assign maximum length in program = 336 + 10= 346
 
