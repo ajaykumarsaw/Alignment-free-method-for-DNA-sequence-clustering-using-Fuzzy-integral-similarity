@@ -1,0 +1,13 @@
+root mean square difference between 1 and 2 is 0.024973
+root mean square difference between 2 and 3 is 0.008417
+root mean square difference between 3 and 4 is 0.001919
+root mean square difference between 4 and 5 is 0.000314
+root mean square difference between 5 and 6 is 0.000050
+root mean square difference between 6 and 7 is 0.000008
+root mean square difference between 7 and 8 is 0.000001
+root mean square difference between 8 and 9 is 0.000000
+
+
+
+
+Therefore k= 8 is optimal step for generating distance matrix for phylogenetic tree construction.
