@@ -1,6 +1,5 @@
-# Alignment-free-method-for-DNA-sequence-clustering-using-Fuzzy-integral-similarity
-Sequence Similarity tools
-
+# Alignment-free-method-for-DNA-sequence-clustering-using-Fuzzy-integral-similarity Sequence Similarity tools
+# Codes are available in DNA_Source Code.tar.gz folder
  
 
 # format of the DNA sequence file is as follow: Odd line contains sequence names and even line contains DNA sequences (eg:-11linedata.fas)
