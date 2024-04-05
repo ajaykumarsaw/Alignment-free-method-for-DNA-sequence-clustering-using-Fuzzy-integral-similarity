@@ -3,6 +3,7 @@
  
 
 # format of the DNA sequence file is as follow: Odd line contains sequence names and even line contains DNA sequences (eg:-11linedata.fas)
+# NOTE: The Length of each DNA sequence name must be greater or equal to 10.
 
 # check the maximum length among the  DNA sequences and add 10 more array in maximum length in program.
 
@@ -42,7 +43,7 @@ Enter Two arguments:  1_path_of_input_file   2_number_of_DNA_sequences
 
 $./optimal_order   similarity.txt 11  >  optimal_order.txt 
 
-# In above program: we get optimal order k, which we used in next program.
+# In above program: we get optimal order k, which we used in next program. If you don't get optimal order k then simply use k=10 as an optimal order. 
 
 $ ./phylip
 
